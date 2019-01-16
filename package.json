@@ -1,0 +1,19 @@
+{
+  "name": "zhangzhen-testpackage",
+  "version": "1.0.2",
+  "description": "this is zhangzhen creator",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "devout_disciple",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.2.2"
+  }
+}
