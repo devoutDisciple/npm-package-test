@@ -11,6 +11,10 @@
   "keywords": [
     "typescript"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devoutDisciple/npm-package-test.git"
+  },
   "author": "devout_disciple",
   "license": "ISC",
   "devDependencies": {
